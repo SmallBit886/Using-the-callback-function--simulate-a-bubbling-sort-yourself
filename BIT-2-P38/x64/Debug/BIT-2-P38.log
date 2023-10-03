@@ -1,0 +1,3 @@
+﻿  text.c
+G:\C_Text\BIT-2-P38\BIT-2-P38\text.c(97,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“stu”
+  BIT-2-P38.vcxproj -> G:\C_Text\BIT-2-P38\x64\Debug\BIT-2-P38.exe
